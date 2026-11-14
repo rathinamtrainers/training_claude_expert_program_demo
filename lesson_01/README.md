@@ -4,9 +4,10 @@ Everything you need to practise this week.
 
 | File | What it is |
 |---|---|
-| `lab_guide.md` | **Start here.** 10 exercises, in order. |
+| `try_it_yourself.md` | **Start here.** Every demo from the session, written so you can do it. |
+| `lab_guide.md` | Then this. 10 exercises on your own real work. |
 | `concepts.md` | Everything explained in the session, written out. For looking things up. |
-| `prompts_used.md` | Every prompt I typed on screen, so you can replay any demo yourself. |
+| `prompts_used.md` | Just the prompts, with no commentary, for copying. |
 | `data/customer_feedback.csv` | 40 customer comments, for the exercise on cutting a big job into steps. |
 | `data/monthly_costs.csv` | 6 months of costs with units and unit price, for the analysis exercise. |
 | `data/hard_reasoning_task.md` | A scheduling puzzle with exactly one valid answer. |
@@ -22,10 +23,15 @@ and it puts the material above your instruction, which is the ordering that work
 a made-up example will technically work and teach you much less. These files exist so you
 are never blocked, not because they are better than your own data.
 
-## The one to do if you only do one
+## The order
 
-Exercise 3: build one real Project for work that comes back every week. It is the one that
-changes a working week rather than a single afternoon.
+** first.** It replays what you watched, so the session sticks.
+
+** second.** Same ideas on your own work, which is where the habit forms.
+
+**If you only do one thing:** build a real Project for work that comes back every week.
+It is number 3 on both lists, and it is the one that changes a working week rather than a
+single afternoon.
 
 ## Stuck?
 
