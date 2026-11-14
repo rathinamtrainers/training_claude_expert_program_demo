@@ -25,9 +25,9 @@ are never blocked, not because they are better than your own data.
 
 ## The order
 
-** first.** It replays what you watched, so the session sticks.
+**`try_it_yourself.md` first.** It replays what you watched, so the session sticks.
 
-** second.** Same ideas on your own work, which is where the habit forms.
+**`lab_guide.md` second.** Same ideas on your own work, which is where the habit forms.
 
 **If you only do one thing:** build a real Project for work that comes back every week.
 It is number 3 on both lists, and it is the one that changes a working week rather than a
