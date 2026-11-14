@@ -1,0 +1,49 @@
+month,cost_line,unit,units,unit_price_inr,total_inr
+2026-04,Cloud hosting,instance-months,120,38,4560
+2026-04,Contractor days,days,42,480,20160
+2026-04,Support tooling,seats,55,14,770
+2026-04,Office rent,months,1,185000,185000
+2026-04,Travel,trips,18,7400,133200
+2026-04,Software licences,licences,210,96,20160
+2026-04,Marketing,campaigns,4,62000,248000
+2026-04,Telephony,lines,64,310,19840
+2026-05,Cloud hosting,instance-months,148,38,5624
+2026-05,Contractor days,days,44,520,22880
+2026-05,Support tooling,seats,62,15,930
+2026-05,Office rent,months,1,185000,185000
+2026-05,Travel,trips,22,7100,156200
+2026-05,Software licences,licences,212,96,20352
+2026-05,Marketing,campaigns,3,58000,174000
+2026-05,Telephony,lines,63,310,19530
+2026-06,Cloud hosting,instance-months,177,38,6726
+2026-06,Contractor days,days,41,575,23575
+2026-06,Support tooling,seats,70,16,1120
+2026-06,Office rent,months,1,185000,185000
+2026-06,Travel,trips,9,7900,71100
+2026-06,Software licences,licences,215,96,20640
+2026-06,Marketing,campaigns,5,61000,305000
+2026-06,Telephony,lines,63,305,19215
+2026-07,Cloud hosting,instance-months,205,37,7585
+2026-07,Contractor days,days,45,640,28800
+2026-07,Support tooling,seats,79,18,1422
+2026-07,Office rent,months,1,185000,185000
+2026-07,Travel,trips,6,8100,48600
+2026-07,Software licences,licences,214,96,20544
+2026-07,Marketing,campaigns,2,70000,140000
+2026-07,Telephony,lines,61,305,18605
+2026-08,Cloud hosting,instance-months,232,38,8816
+2026-08,Contractor days,days,43,700,30100
+2026-08,Support tooling,seats,88,19,1672
+2026-08,Office rent,months,1,192000,192000
+2026-08,Travel,trips,14,7600,106400
+2026-08,Software licences,licences,218,94,20492
+2026-08,Marketing,campaigns,3,64000,192000
+2026-08,Telephony,lines,60,300,18000
+2026-09,Cloud hosting,instance-months,260,38,9880
+2026-09,Contractor days,days,46,760,34960
+2026-09,Support tooling,seats,98,21,2058
+2026-09,Office rent,months,1,192000,192000
+2026-09,Travel,trips,17,7500,127500
+2026-09,Software licences,licences,220,94,20680
+2026-09,Marketing,campaigns,4,63000,252000
+2026-09,Telephony,lines,58,300,17400
