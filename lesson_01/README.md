@@ -6,6 +6,7 @@ Everything you need to practise this week.
 |---|---|
 | `lab_guide.md` | **Start here.** 10 exercises, in order. |
 | `concepts.md` | Everything explained in the session, written out. For looking things up. |
+| `prompts_used.md` | Every prompt I typed on screen, so you can replay any demo yourself. |
 | `data/customer_feedback.csv` | 40 customer comments, for the exercise on cutting a big job into steps. |
 | `data/monthly_costs.csv` | 6 months of costs with units and unit price, for the analysis exercise. |
 | `data/hard_reasoning_task.md` | A scheduling puzzle with exactly one valid answer. |
